@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allstarcasino-canada.com/sitemap.xml
